@@ -1,4 +1,4 @@
-# Object-Detection and recognition
+# Object-Detection and Recognition
 The code is an implementation of an object detection camera using the OpenCV and Pyttsx3 modules in Python. The purpose of the code is to detect objects in real-time using a camera and provide an audible warning to the user in case of any potential danger.
 
 Here is a brief description of what the code does:
